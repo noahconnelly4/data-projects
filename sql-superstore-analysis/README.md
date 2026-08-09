@@ -41,3 +41,10 @@ The analysis was designed around the following business questions:
 
 ## Dashboard
 [View dashboard (PDF)](./dashboard/dashboard-preview.pdf) · [Power BI file (.pbix)](./dashboard/dashboard-preview.pbix)
+
+
+## Repo structure
+```
+queries/     -- SQL scripts (data exploration + business analysis)
+dashboard/   -- Power BI file + PDF export
+```
